@@ -1,5 +1,5 @@
 简单线程池的实现
 ==========================
-[STL 技术实现简要分析](http://blog.csdn.net/chengonghao/article/category/6216131 "CSDN")
+[线程池技术实现简要分析](http://blog.csdn.net/chengonghao/article/category/6289128 "CSDN")
 
-[关于作者](profile.md)
+[关于作者](https://github.com/Apulus/cghSTL/blob/master/profile.md)
